@@ -81,7 +81,7 @@ Pull requests are welcome! Follow these steps:
 ---
 
 ## License
-This project is licensed under the **MIT License**. See `LICENSE.md` for details.
+This project is licensed under the **MIT License**.
 
 ---
 
