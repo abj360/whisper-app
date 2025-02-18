@@ -31,7 +31,7 @@ Whisper is an AI system that harnesses natural language processing (NLP) to clas
 ---
 ---
 ### Glove Embeddings 3d
-![Embeddings](assets/embeddings.png)
+![Embeddings](assets/embeddings3d.png)
 
 ### Confusion Matrix
 ![Confusion Matrix](assets/confusion_matrix.png)
