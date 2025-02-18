@@ -27,9 +27,22 @@ Whisper is an AI system that harnesses natural language processing (NLP) to clas
 - **Backend:** N/A (Only Google Colab for model execution)  
 - **AI Model:** PyTorch (Fine-tuned NLP model for disaster classification)  
 - **Dataset:** [Disaster Relief Dataset](https://storage.googleapis.com/inspirit-ai-data-bucket-1/Data/AI%20Scholars/Sessions%206%20-%2010%20(Projects)/Project%20-%20Disaster%20Relief/disaster_data.csv)  
-- **Word Embeddings:** [GloVe 300D](http://nlp.uoregon.edu/download/embeddings/glove.6B.300d.txt)  
+- **Word Embeddings:** [GloVe 300D](http://nlp.uoregon.edu/download/embeddings/glove.6B.300d.txt)
+---
+---
+### Glove Embeddings 3d
+![Embeddings](assets/embeddings.png)
+
+### Confusion Matrix
+![Confusion Matrix](assets/confusion_matrix.png)
 
 ---
+## Screenshots
+### Upload Image Screen
+![Upload Screen](assets/upload_screen.png)
+
+### Diagnosis Output
+![Diagnosis Output](assets/diagnosis_output.png)
 
 ## Installation & Setup
 ### Prerequisites
